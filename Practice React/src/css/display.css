@@ -1,0 +1,75 @@
+/**
+ *Determines the color of each link.
+ *Gets rid of the links inherited underline.
+ */
+.a{
+    color: black;
+    text-decoration: none;
+}
+/**
+ *Determines the color of the link when the cursor hovers over it.
+ */
+.a:hover{
+    color: lightgreen;
+}
+/**
+ *Determines the position of the div with the lists in it on the page.
+ */
+.centered{
+    margin: 400 auto;
+    text-align: left; 
+    width: 90%;
+}
+/**
+ *Determines the behavior of the fifth column of links.
+ */
+.fifthCol{
+    list-style-type: none;
+    text-align: left;
+    width: 15%;
+    float: left;
+}
+/**
+ *Determines the behavior of the first column of links.
+ */
+.firstCol{
+    list-style-type: none;
+    text-align: left;
+    width: 15%;
+    float: left;
+}
+/**
+ *Determines the behavior of the fourth column of links.
+ */
+.fourthCol{
+    list-style-type: none;
+    text-align: left;
+    width: 15%;
+    float: left;
+}
+/**
+ *Adds padding to the header so it will be inline with first
+ *column of lists.
+ */
+.listHeader{
+    padding-left: 1.8em;
+}
+/**
+ *Determines the behavior of the second column of links.
+ */
+.secondCol{
+    list-style-type: none;
+    text-align: left;
+    width: 15%;
+    float: left;
+}
+/**
+ *Determines the behavior of the third column of links.
+ */
+.thirdCol{
+    list-style-type: none;
+    text-align: left;
+    width: 15%;
+    float: left;
+}
+
